@@ -13,7 +13,7 @@
 
 .navbar .logo a {
     color: #fff;
-    font-size: 15px;
+    font-size: 25px;
     text-decoration: none;    
 }
 
@@ -29,7 +29,7 @@
 .nav-links a {
     /*color: #fff;*/
     text-decoration: none;
-    font-size: 15px;
+    font-size: 23px;
     transition: color 0.3s;
 }
 
